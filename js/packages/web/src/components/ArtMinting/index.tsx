@@ -255,7 +255,7 @@ export const ArtMinting = ({ id, onMint }: ArtMintingProps) => {
               }}
             >
               New editions have been minted please view your NFTs in{' '}
-              <Link to="/artworks">My Items</Link>.
+              <Link to="/artworks">My Gems</Link>.
             </p>
             <Button
               onClick={async () => {
